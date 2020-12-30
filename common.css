@@ -259,6 +259,11 @@ span.fl-txt-line-bg {
     padding-bottom: 7px;
     color: #000;
 }
+.reset-list{
+  list-style: none;
+  padding: 0;
+  margin-left: 0;
+}
 .bs-text-module{
 
 }
