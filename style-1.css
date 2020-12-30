@@ -178,7 +178,9 @@ header.fl-hdr {
 	background-size: 100% 100%!important;
 	font-size: 30px;
 	line-height: 1;
-	padding: 10px;
+	padding: 19px 10px 5px;
+	margin-bottom: 45px;
+	font-family: 'Barlow-ExtraBold';
 }
 
 
@@ -206,7 +208,9 @@ header.fl-hdr {
 
 .thankyou-text{
 	font-size: 18px;
-	line-height: 1;
+	line-height: 20px;
+	display: inline-block;
+	vertical-align: baseline;
 	color: #0006ff;
 }
 
