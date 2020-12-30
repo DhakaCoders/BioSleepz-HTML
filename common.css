@@ -187,6 +187,9 @@ a,a:hover,a:focus,button:hover,button:focus {
   text-decoration: none;
   outline: 0;
 }
+u{
+  text-decoration: underline;
+}
 body {
   background-color: #fff;
   color: #000;
@@ -281,6 +284,9 @@ h4 {
 }
 h5 {
   font-size: 30px;
+}
+h6 {
+  font-size: 24px;
 }
 
 .h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6 {

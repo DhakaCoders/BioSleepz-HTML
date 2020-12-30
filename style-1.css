@@ -182,6 +182,35 @@ header.fl-hdr {
 }
 
 
+.references-section{
+	padding: 50px 0 52px;
+}
+.references-section h6{
+	font-family: 'Lato-Black';
+	margin-bottom: 35px;
+}
+.references-section ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.references-section ul li:not(:last-child){
+	margin-bottom: 30px;
+}
+.references-section ul li a{
+	display: inline-block;
+	vertical-align: baseline;
+	font-size: 16px;
+	color: #4b5a9a;
+}
+
+.thankyou-text{
+	font-size: 18px;
+	line-height: 1;
+	color: #0006ff;
+}
+
+
 .fl-footer-wrap{
     background-color: #0d1a3e;
     color: #fff;
