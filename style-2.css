@@ -1,0 +1,16 @@
+
+.bss-sec-1{
+	padding-top: 30px;
+}
+.bss-sec-1-lft{
+	float: left;
+	width: 50%;
+}
+.bss-sec-1-rgt{
+	float: right;
+	width: 50%;
+}
+
+.bss-sec-1-lft p strong{
+	font-family: 'Lato-Black';
+}
