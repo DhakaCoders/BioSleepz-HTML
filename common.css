@@ -241,6 +241,9 @@ img {
 p { margin: 0; margin-bottom: 30px; line-height: 1.3;}
 a { word-wrap: break-word } 
 strong { font-weight:normal }
+em{
+  font-family: 'Lato-Italic';
+}
 
 span.fl-txt-line-bg {
     font-family: 'LatoBold';
@@ -257,7 +260,7 @@ span.fl-txt-line-bg {
     color: #000;
 }
 .bs-text-module{
-  
+
 }
 
 .plr-30 {

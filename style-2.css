@@ -2,11 +2,13 @@
 .bss-sec-1{
 	padding-top: 30px;
 }
-.bss-sec-1-lft{
+.bss-sec-1-lft,
+.bss-sec-3-lft{
 	float: left;
 	width: 50%;
 }
-.bss-sec-1-rgt{
+.bss-sec-1-rgt,
+.bss-sec-3-rgt{
 	float: right;
 	width: 50%;
 }
