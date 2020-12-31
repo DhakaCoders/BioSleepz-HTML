@@ -283,7 +283,7 @@ header.fl-hdr {
 .fl-pkg-grd-col-fea-img span{
     position: absolute;
     right: 24px;
-    bottom: 39px;
+    bottom: 14px;
 }
 
 .fl-pkg-grd-col{
@@ -380,6 +380,9 @@ header.fl-hdr {
 .fl-add-to-cart-btn-img a{
     display: inline-block;
     vertical-align: baseline;
+}
+.fl-add-to-cart-btn-img a:hover{
+    opacity: .77;
 }
 .fl-pkg-grd-ftr ul li{
     position: relative;
