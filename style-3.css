@@ -18,8 +18,21 @@
 	background: #f4f8ff;
 	padding-top: 30px;
 }
+.bsn-section-3-sub2-lft{
+	margin-left: -20px;
+}
+.bsn-section-4{
+	padding-top: 15px;
+}
+.bsn-section-4-sub1-rt{
+	margin-right: -15px;
+}
+.bsn-section-4-sub2-lft{
+	margin-left: -30px;
+	padding-top: 10px;
+}
 .bsn-section-5{
-	padding-top: 5px;
+	padding-top: 25px;
 }
 
 .bsn-section-6{
