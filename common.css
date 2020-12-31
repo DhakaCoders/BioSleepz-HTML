@@ -359,9 +359,11 @@ h6 {
 @media(max-width: 1023px){
   .pull-right{
       float: initial!important;
+      width: 100%!important;
     }
     .pull-left{
       float: initial!important;
+      width: 100%!important;
     }
     p br{
       display: none!important;
