@@ -252,10 +252,10 @@ span.fl-txt-line-bg {
     background-repeat: no-repeat !important;
     background-position: center center !important;
     background-size: 100% 100% !important;
-    margin-right: -6px;
-    margin-left: -6px;
-    padding-left: 6px;
-    padding-right: 6px;
+    margin-right: -8px;
+    margin-left: -8px;
+    padding-left: 8px;
+    padding-right: 8px;
     padding-bottom: 7px;
     color: #000;
 }
