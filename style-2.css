@@ -96,7 +96,7 @@
 .bss-sec-6-grd-item:after{
 	content: "";
 	position: absolute;
-	top: 5px;
+	top: 6px;
 	right: -5px;
 	height: 355px;
 	width: 5px;
