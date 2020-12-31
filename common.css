@@ -216,7 +216,7 @@ img {
   z-index: 10;
 }
 .container {
-  max-width: 1140px;
+  max-width: 1194px;
   width: 100%;
 }
 .hide-md {
@@ -290,7 +290,7 @@ span.fl-txt-line-bg {
 }
 
 .fl-page-bdy-controller{
-  max-width: 1170px;
+  max-width: 1224px;
   width: 100%;
   margin-left: auto;
   margin-right: auto;
