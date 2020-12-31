@@ -464,13 +464,13 @@ h6 {
        margin-bottom: 20px;
     }
     h1{
-      font-size: 55px;
+      font-size: 50px;
     }
     h2{
-      font-size: 40px;
+      font-size: 38px;
     }
     h3 {
-      font-size: 38px;
+      font-size: 35px;
     }
     h4 {
       font-size: 30px;
@@ -479,4 +479,18 @@ h6 {
       font-size: 22px;
     }
 
+}
+@media(max-width: 575px){
+    h1{
+      font-size: 46px;
+    }
+    h2{
+      font-size: 36px;
+    }
+    h3 {
+      font-size: 32px;
+    }
+    h4 {
+      font-size: 28px;
+    }
 }
