@@ -123,6 +123,7 @@
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	border-radius: 0 0 0 4px;
 }
 .bss-sec-6-grd-item-des h6{
 	text-align: center;
