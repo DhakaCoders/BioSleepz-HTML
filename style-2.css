@@ -184,6 +184,10 @@
 	padding-left: 8px;
 }
 
+.bss-sec-6-grd-item-img img{
+	display: none;
+}
+
 
 @media(max-width: 1199px){
     .hide-md{
@@ -249,5 +253,11 @@
     	margin-left: auto;
     	margin-right: auto;
     }
+    .bss-sec-6-grd-item-img{
+    	background: none;
+    }
+    .bss-sec-6-grd-item-img img{
+		display: block;
+	}
 
 }
