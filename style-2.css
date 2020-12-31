@@ -121,6 +121,7 @@
 	background: #262262;
 	display: flex;
 	align-items: center;
+	justify-content: center;
 }
 .bss-sec-6-grd-item-des h6{
 	text-align: center;
@@ -191,5 +192,10 @@
 
 
 .bss-ml-15{
-	background-position: -15px center!important;
+  margin-left: -15px!important;
+  padding-left: 15px!important;
+}
+.bss-ml-8{
+	margin-left: -8px;
+	padding-left: 8px;
 }

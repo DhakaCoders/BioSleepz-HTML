@@ -10,6 +10,12 @@
 .bsn-section-2-cntlr{
 
 }
+.c-md-show{
+	display: none;
+}
+.c-md-hide{
+	display: block;
+}
 .bsn-section-2-cntlr-lft{
 	margin-left: -25px;
 }
@@ -158,4 +164,15 @@
 }
 .bsn-section-11-hedding{
 	margin-bottom: 20px;
+}
+
+
+/*responsive*/
+@media(max-width: 1054px){
+	.c-md-show{
+		display: block!important;
+	}
+	.c-md-hide{
+		display: none!important;
+	}
 }
