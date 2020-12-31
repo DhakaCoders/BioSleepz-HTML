@@ -96,12 +96,13 @@
 .bss-sec-6-grd-item:after{
 	content: "";
 	position: absolute;
-	top: 0;
+	top: 5px;
 	right: -5px;
-	height: 360px;
+	height: 355px;
 	width: 5px;
 	background: #d9dceb;
 	margin-top: 5px;
+	border-radius: 20px;
 }
 .bss-sec-6-grd-item-img-ctlr{
 	border: 9px solid #fff;
