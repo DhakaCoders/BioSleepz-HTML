@@ -2,12 +2,6 @@
 .bss-sec-1{
 	padding-top: 30px;
 }
-.bss-sec-1-rgtimg{
-	min-height: 535px;
-	background-repeat: no-repeat!important;
-	background-size: cover!important;
-	background-position: center center!important;
-}
 
 .bss-sec-1-grd-items ul li{
 	padding-bottom: 18px;
@@ -34,10 +28,6 @@
 }
 
 .bss-sec-3-rgtimg{
-	min-height: 530px;
-	background-repeat: no-repeat!important;
-	background-size: cover!important;
-	background-position: center center!important;
 	margin-top: 30px;
 }
 
@@ -63,19 +53,7 @@
 .bss-sec-5-lft-des p{
 	margin-bottom: 18px;
 }
-.bss-sec-5-rgtimg{
-	min-height: 535px;
-	background-repeat: no-repeat!important;
-	background-size: cover!important;
-	background-position: center center!important;
-}
 
-.bss-sec-5-lftimg{
-	min-height: 715px;
-	background-repeat: no-repeat!important;
-	background-size: cover!important;
-	background-position: center center!important;
-}
 .bss-sec-5-rgt-des{
 	padding-right: 15px;
 }
@@ -138,18 +116,9 @@
 .bss-sec-8{
 	padding-bottom: 30px;
 }
-.bss-sec-8-img{
-	min-height: 725px;
-	background-repeat: no-repeat!important;
-	background-position: center center!important;
-	background-size: cover!important;
-}
+
 
 .bss-sec-9-img{
-	min-height: 630px;
-	background-repeat: no-repeat!important;
-	background-position: center center!important;
-	background-size: cover!important;
 	margin-left: -20px;
 	margin-right: -15px;
 }
@@ -175,19 +144,10 @@
 	float: right;
 	width: 57.6576%;
 }
-.bss-sec-11-lft-img{
-	min-height: 360px;
-	background-repeat: no-repeat!important;
-}
+
 
 .bss-sec-11-mdle-text p:last-child{
 	margin-bottom: 20px;
-}
-.bss-sec-11-rgtimg{
-	min-height: 800px;
-	background-repeat: no-repeat!important;
-	background-size: cover!important;
-	background-position: center center!important;
 }
 
 
