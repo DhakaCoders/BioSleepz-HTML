@@ -274,7 +274,7 @@ header.fl-hdr {
     margin: 0 auto;
     position: relative;
     display: table;
-    padding: 0 15px 35px;
+    padding: 0 15px 10px;
 }
 .fl-pkg-grd-col-fea-img div{
     display: inline-block;
@@ -338,6 +338,7 @@ header.fl-hdr {
     padding-left: 8px;
     padding-top: 5px;
     text-align: center;
+    padding-bottom: 15px;
 }
 .fl-creditcards a{
     display: inline-block;
@@ -366,11 +367,11 @@ header.fl-hdr {
   font-family: 'SourceSansPro-Bold';
 }
 .fl-pkg-grd-ftr{
-        padding-left: 10px;
-        padding-right: 10px;
-        display: table;
-        margin: 0 auto;
-    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: table;
+    margin: 0 auto;
+    padding-top: 10px;
 }
 .fl-add-to-cart-btn-img{
     margin-bottom: 15px;
@@ -437,7 +438,10 @@ header.fl-hdr {
 	margin-bottom: 45px;
 	font-family: 'Barlow-ExtraBold';
 }
-
+.thankyou-btn:hover{
+    color:#000;
+    opacity: .7;
+}
 
 .references-section{
 	padding: 50px 0 52px;
@@ -459,6 +463,9 @@ header.fl-hdr {
 	vertical-align: baseline;
 	font-size: 16px;
 	color: #4b5a9a;
+}
+.references-section ul li a:hover{
+    color: #000;
 }
 
 .thankyou-text{
