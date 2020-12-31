@@ -214,6 +214,9 @@
 	.bsn-section-8-sub2-item{
 		padding: 15px 0;
 	}
+	.bsn-ssi-total{
+		padding: 18px 0!important;
+	}
 	.bsn-section-8-sub2-item span{
 		padding-left: 15px;
 	}
@@ -227,5 +230,11 @@
 	}
 	.bsn-section-8-sub2-item strong{
 		padding-right: 10px;
+	}
+	.bsn-section-8-sub2-item{
+		padding: 12px 0;
+	}
+	.bsn-ssi-total{
+		padding: 15px 0!important;
 	}
 }
