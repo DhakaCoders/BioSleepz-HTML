@@ -193,7 +193,7 @@ u{
 body {
   background-color: #fff;
   color: #000;
-  font-size: 24px;
+  font-size: 22px;
   line-height: 1.3;
   font-family: 'LatoRegular';
   background: url(assets/images/body-bg.jpg);
@@ -216,7 +216,7 @@ img {
   z-index: 10;
 }
 .container {
-  max-width: 1194px;
+  max-width: 1140px;
   width: 100%;
 }
 .hide-md {
@@ -290,7 +290,7 @@ span.fl-txt-line-bg {
 }
 
 .fl-page-bdy-controller{
-  max-width: 1224px;
+  max-width: 1170px;
   width: 100%;
   margin-left: auto;
   margin-right: auto;
