@@ -87,7 +87,7 @@
 	content: "";
 	position: absolute;
 	left: 0;
-	right: 0;
+	right: -2px;
 	bottom: -5px;
 	height: 5px;
 	background: #d9dceb;
@@ -97,7 +97,7 @@
 .bss-sec-6-grd-item:after{
 	content: "";
 	position: absolute;
-	top: 6px;
+	top: 0;
 	right: -5px;
 	bottom: -5px;
 	width: 5px;
@@ -119,7 +119,7 @@
 
 .bss-sec-6-grd-item-des{
 	min-height: 125px;
-	padding: 10px 25px 0 10px;
+	padding: 10px 25px 10px 10px;
 	background: #262262;
 	display: flex;
 	align-items: center;
@@ -131,6 +131,7 @@
 	color: #fff;
 	font-family: 'LatoRegular';
 	margin-bottom: 0;
+	font-size: 22px;
 }
 .bss-sec-6-btm-txt-module{
 	padding-top: 10px;
