@@ -159,3 +159,38 @@
 	margin-left: -8px;
 	padding-left: 8px;
 }
+
+
+@media(max-width: 1199px){
+    .hide-md{
+      display: none!important;
+    }
+    .show-md{
+      display: block!important;
+    }
+}
+@media(max-width: 991px){
+    .hide-sm{
+        display: none!important;
+    }
+    .show-sm{
+        display: block!important;
+    }
+    .bss-sec-11-lftimg-ctlr{
+    	width: 100%;
+    }
+    .bss-sec-11-rgtdes{
+    	width: 100%;
+    }
+}
+
+
+@media(max-width: 767px){
+    .hide-xs{
+        display: none!important;
+    }
+    .show-xs{
+        display: block!important;
+    }
+
+}
