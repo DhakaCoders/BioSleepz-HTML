@@ -102,8 +102,9 @@
 }
 
 .bss-sec-6-grd-item{
-	-webkit-box-shadow: 5px 5px 15px 0px #d9dceb; 
-box-shadow: 5px 5px 15px 0px #d9dceb;
+	box-shadow: 6px 6px 0px 0px rgba(217,220,235,1);
+	-webkit-box-shadow: 6px 6px 0px 0px rgba(217,220,235,1);
+	-moz-box-shadow: 6px 6px 0px 0px rgba(217,220,235,1);
 }
 .bss-sec-6-grd-item-img-ctlr{
 	border: 9px solid #fff;
@@ -125,6 +126,9 @@ box-shadow: 5px 5px 15px 0px #d9dceb;
 	text-align: center;
 	color: #fff;
 	font-family: 'LatoRegular';
+}
+.bss-sec-6-btm-txt-module{
+	padding-top: 10px;
 }
 .bss-sec-7{
 	padding-top: 28px;
@@ -183,4 +187,9 @@ box-shadow: 5px 5px 15px 0px #d9dceb;
 	background-repeat: no-repeat!important;
 	background-size: cover!important;
 	background-position: center center!important;
+}
+
+
+.bss-ml-15{
+	background-position: -15px center!important;
 }
