@@ -184,6 +184,9 @@
 	.bsn-sec6-grid-item-desc{
 		width: 65%;
 	}
+	.bsn-sec6-grid-item-desc p br{
+		display: none!important;
+	}
 }
 @media(max-width: 1023px){
 	.bsn-section-2-cntlr-lft img{
@@ -236,5 +239,11 @@
 	}
 	.bsn-ssi-total{
 		padding: 15px 0!important;
+	}
+	.bsn-section-8-sub2-item span{
+		font-size: 19px;
+	}
+	.bsn-section-8-sub2-item strong{
+		font-size: 19px;
 	}
 }
