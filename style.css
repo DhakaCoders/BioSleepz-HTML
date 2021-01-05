@@ -329,19 +329,19 @@ header.fl-hdr {
   z-index: 5;
 }
 .fl-shipping {
-    padding-bottom: 28px;
+    padding-bottom: 22px;
     box-sizing: border-box;
     position: relative
 }
 .fl-shipping img {
     display: inline-block;
     position: relative;
-    top: 36px;
+    top: 32px;
     width: 57px;
     height: 57px
 }
 .fl-shipping .two_sec img {
-    top: 28px;
+    top: 25px;
     width: 71px;
     height: 71px
 }
@@ -375,7 +375,7 @@ header.fl-hdr {
     left: 0;
     right: 0;
     border-radius: 50px;
-    top: 57px;
+    top: 55px;
 }
 
 .fl-special-offer-sec {
@@ -838,6 +838,7 @@ box-shadow: 0px 0px 35px 0px rgba(241,240,240,1);
   -webkit-box-shadow: 0px 0px 10px 4px #e1e1e7; 
   box-shadow: 0px 0px 10px 4px #e1e1e7;
   position: relative;
+  border-bottom: 4px solid #322f72;
 }
 .bss-sec-1-grd-item i{
   position: absolute;
@@ -1425,7 +1426,16 @@ box-shadow: 0px 0px 35px 0px rgba(241,240,240,1);
     .bss-sec-11-rgtdes{
       width: 100%;
     }
-
+    .bss-sec-10-overlay{
+      display: none;
+    }
+    .bss-sec-10{
+      background: #f4f8ff!important;
+    }
+    .bss-sec-10-bg-sm-cntlr{
+      margin-right: -10px;
+      text-align: right;
+    }
 }
 @media (max-width:830px){
     .fl-shipping h4 {
@@ -1541,6 +1551,9 @@ box-shadow: 0px 0px 35px 0px rgba(241,240,240,1);
   }
   .bsn-section-6-cntlr ul li{
     margin-bottom: 40px;
+  }
+  .fl-shipping:before{
+    top: 53px;
   }
 }
 
