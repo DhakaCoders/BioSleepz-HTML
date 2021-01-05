@@ -75,12 +75,8 @@
 
 @font-face {
     font-family: 'Anton-Regular';
-    src: url('assets/fonts/Anton-Regular/Anton-Regular.eot');
-    src: url('assets/fonts/Anton-Regular/Anton-Regular.eot?#iefix') format('embedded-opentype'),
-        url('assets/fonts/Anton-Regular/Anton-Regular.woff2') format('woff2'),
+    src: url('assets/fonts/Anton-Regular/Anton-Regular.woff2') format('woff2'),
         url('assets/fonts/Anton-Regular/Anton-Regular.woff') format('woff'),
-        url('assets/fonts/Anton-Regular/Anton-Regular.ttf') format('truetype'),
-        url('assets/fonts/Anton-Regular/Anton-Regular.svg#Anton-Regular') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -89,12 +85,8 @@
 
 @font-face {
     font-family: 'GothamNarrow-Black';
-    src: url('assets/fonts/GothamNarrow-Black/GothamNarrow-Black.eot');
-    src: url('assets/fonts/GothamNarrow-Black/GothamNarrow-Black.eot?#iefix') format('embedded-opentype'),
-        url('assets/fonts/GothamNarrow-Black/GothamNarrow-Black.woff2') format('woff2'),
+    src: url('assets/fonts/GothamNarrow-Black/GothamNarrow-Black.woff2') format('woff2'),
         url('assets/fonts/GothamNarrow-Black/GothamNarrow-Black.woff') format('woff'),
-        url('assets/fonts/GothamNarrow-Black/GothamNarrow-Black.ttf') format('truetype'),
-        url('assets/fonts/GothamNarrow-Black/GothamNarrow-Black.svg#GothamNarrow-Black') format('svg');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -102,12 +94,8 @@
 
 @font-face {
     font-family: 'GothamNarrow-Bold';
-    src: url('assets/fonts/GothamNarrow-Bold/GothamNarrow-Bold.eot');
-    src: url('assets/fonts/GothamNarrow-Bold/GothamNarrow-Bold.eot?#iefix') format('embedded-opentype'),
-        url('assets/fonts/GothamNarrow-Bold/GothamNarrow-Bold.woff2') format('woff2'),
+    src: url('assets/fonts/GothamNarrow-Bold/GothamNarrow-Bold.woff2') format('woff2'),
         url('assets/fonts/GothamNarrow-Bold/GothamNarrow-Bold.woff') format('woff'),
-        url('assets/fonts/GothamNarrow-Bold/GothamNarrow-Bold.ttf') format('truetype'),
-        url('assets/fonts/GothamNarrow-Bold/GothamNarrow-Bold.svg#GothamNarrow-Bold') format('svg');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -116,12 +104,8 @@
 
 @font-face {
     font-family: 'GothamNarrow-Medium';
-    src: url('assets/fonts/GothamNarrow-Medium/GothamNarrow-Medium.eot');
-    src: url('assets/fonts/GothamNarrow-Medium/GothamNarrow-Medium.eot?#iefix') format('embedded-opentype'),
-        url('assets/fonts/GothamNarrow-Medium/GothamNarrow-Medium.woff2') format('woff2'),
+    src: url('assets/fonts/GothamNarrow-Medium/GothamNarrow-Medium.woff2') format('woff2'),
         url('assets/fonts/GothamNarrow-Medium/GothamNarrow-Medium.woff') format('woff'),
-        url('assets/fonts/GothamNarrow-Medium/GothamNarrow-Medium.ttf') format('truetype'),
-        url('assets/fonts/GothamNarrow-Medium/GothamNarrow-Medium.svg#GothamNarrow-Medium') format('svg');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
