@@ -6,7 +6,6 @@
   font-style: normal;
   font-display: swap;
 }
-
 @font-face {
   font-family: 'Barlow-ExtraBold';
   src: url('assets/fonts/Barlow-ExtraBold/barlow-extrabold.woff2') format('woff2'),
@@ -15,8 +14,6 @@
   font-style: normal;
   font-display: swap;
 }
-
-
 @font-face {
   font-family: 'LatoRegular';
   src: url('assets/fonts/LatoRegular/LatoRegular.woff2') format('woff2'),
@@ -25,18 +22,6 @@
   font-style: normal;
   font-display: swap;
 }
-
-
-@font-face {
-  font-family: 'LatoLight';
-  src: url('assets/fonts/LatoLight/LatoLight.woff2') format('woff2'),
-    url('assets/fonts/LatoLight/LatoLight.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-
 @font-face {
   font-family: 'LatoBold';
   src: url('assets/fonts/LatoBold/LatoBold.woff2') format('woff2'),
@@ -45,16 +30,6 @@
   font-style: normal;
   font-display: swap;
 }
-
-@font-face {
-  font-family: 'LatoSemibold';
-  src: url('assets/fonts/LatoSemibold/LatoSemibold.woff2') format('woff2'),
-    url('assets/fonts/LatoSemibold/LatoSemibold.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
 @font-face {
   font-family: 'Lato-Italic';
   src: url('assets/fonts/Lato-Italic/Lato-Italic.woff2') format('woff2'),
@@ -71,47 +46,38 @@
   font-style: normal;
   font-display: swap;
 }
-
-
 @font-face {
     font-family: 'Anton-Regular';
     src: url('assets/fonts/Anton-Regular/Anton-Regular.woff2') format('woff2'),
-        url('assets/fonts/Anton-Regular/Anton-Regular.woff') format('woff'),
+        url('assets/fonts/Anton-Regular/Anton-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
-
-
 @font-face {
     font-family: 'GothamNarrow-Black';
     src: url('assets/fonts/GothamNarrow-Black/GothamNarrow-Black.woff2') format('woff2'),
-        url('assets/fonts/GothamNarrow-Black/GothamNarrow-Black.woff') format('woff'),
+        url('assets/fonts/GothamNarrow-Black/GothamNarrow-Black.woff') format('woff');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
 }
-
 @font-face {
     font-family: 'GothamNarrow-Bold';
     src: url('assets/fonts/GothamNarrow-Bold/GothamNarrow-Bold.woff2') format('woff2'),
-        url('assets/fonts/GothamNarrow-Bold/GothamNarrow-Bold.woff') format('woff'),
+        url('assets/fonts/GothamNarrow-Bold/GothamNarrow-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
-
-
 @font-face {
     font-family: 'GothamNarrow-Medium';
     src: url('assets/fonts/GothamNarrow-Medium/GothamNarrow-Medium.woff2') format('woff2'),
-        url('assets/fonts/GothamNarrow-Medium/GothamNarrow-Medium.woff') format('woff'),
+        url('assets/fonts/GothamNarrow-Medium/GothamNarrow-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
-
-
 @font-face {
   font-family: 'Montserrat-Light';
   src: url('assets/fonts/Montserrat-Light/Montserrat-Light.woff2') format('woff2'),
@@ -120,7 +86,6 @@
   font-style: normal;
   font-display: swap;
 }
-
 @font-face {
   font-family: 'Montserrat-Medium';
   src: url('assets/fonts/Montserrat-Medium/Montserrat-Medium.woff2') format('woff2'),
@@ -129,16 +94,6 @@
   font-style: normal;
   font-display: swap;
 }
-
-@font-face {
-  font-family: 'Montserrat-Regular';
-  src: url('assets/fonts/Montserrat-Regular/Montserrat-Regular.woff2') format('woff2'),
-    url('assets/fonts/Montserrat-Regular/Montserrat-Regular.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
 @font-face {
   font-family: 'SourceSansPro-Bold';
   src: url('assets/fonts/SourceSansPro-Bold/SourceSansPro-Bold.woff2') format('woff2'),
@@ -147,14 +102,6 @@
   font-style: normal;
   font-display: swap;
 }
-
-
-
-
-
-
-
-
 
 *,*:focus,.btn,.btn:focus {
   outline: 0!important;
@@ -441,37 +388,37 @@ header.fl-hdr {
 }
 
 .special-offer-dsc{
-	max-width: 712px;
-	width: 100%;
-	text-align: center;
-	padding: 55px 0 60px;
+  max-width: 712px;
+  width: 100%;
+  text-align: center;
+  padding: 55px 0 60px;
 }
 .special-offer-dsc p{
-	font-size: 22px;
-	margin-bottom: 30px;
+  font-size: 22px;
+  margin-bottom: 30px;
 }
 
 .special-offer-dsc p strong{
-	font-family: 'Lato-Black';
-	display: block;
+  font-family: 'Lato-Black';
+  display: block;
 }
 
 .special-offer-dsc mark{
-	background-size: 100% 100%!important;
-	font-size: 24px;
-	line-height: 1;
-	display: inline-block;
-	vertical-align: baseline;
-	font-family: 'Lato-Black';
-	color: #fff;
-	padding: 12px 25px 15px 22px;
-	text-shadow: 0 2px 0 #b93a1f;
-	margin-bottom: 30px;
+  background-size: 100% 100%!important;
+  font-size: 24px;
+  line-height: 1;
+  display: inline-block;
+  vertical-align: baseline;
+  font-family: 'Lato-Black';
+  color: #fff;
+  padding: 12px 25px 15px 22px;
+  text-shadow: 0 2px 0 #b93a1f;
+  margin-bottom: 30px;
 }
 .special-offer-dsc h4{
-	color: #190e63;
-	line-height: 1.3;
-	font-family: 'GothamNarrow-Black';
+  color: #190e63;
+  line-height: 1.3;
+  font-family: 'GothamNarrow-Black';
 }
 
 
@@ -732,35 +679,35 @@ box-shadow: 0px 0px 35px 0px rgba(241,240,240,1);
 
 
 .signature-sec{
-	padding: 40px 0 20px;
+  padding: 40px 0 20px;
 }
 .signature-sec p{
-	margin-bottom: 15px;
+  margin-bottom: 15px;
 }
 
 .thankyou-section{
-	background: #f4f8ff;
-	padding: 55px 0 50px;
-	text-align: center;
+  background: #f4f8ff;
+  padding: 55px 0 50px;
+  text-align: center;
 }
 
 .thankyou-btn{
-	max-width: 675px;
-	width: 100%;
-	height: 106px;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	margin-left: auto;
-	margin-right: auto;
-	color: #000000;
-	text-transform: uppercase;
-	background-size: 100% 100%!important;
-	font-size: 30px;
-	line-height: 1;
-	padding: 19px 10px 5px;
-	margin-bottom: 45px;
-	font-family: 'Barlow-ExtraBold';
+  max-width: 675px;
+  width: 100%;
+  height: 106px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: #000000;
+  text-transform: uppercase;
+  background-size: 100% 100%!important;
+  font-size: 30px;
+  line-height: 1;
+  padding: 19px 10px 5px;
+  margin-bottom: 45px;
+  font-family: 'Barlow-ExtraBold';
 }
 .thankyou-btn:hover{
     color:#000;
@@ -768,25 +715,25 @@ box-shadow: 0px 0px 35px 0px rgba(241,240,240,1);
 }
 
 .references-section{
-	padding: 50px 0 52px;
+  padding: 50px 0 52px;
 }
 .references-section h6{
-	font-family: 'Lato-Black';
-	margin-bottom: 35px;
+  font-family: 'Lato-Black';
+  margin-bottom: 35px;
 }
 .references-section ul{
-	margin: 0;
-	padding: 0;
-	list-style: none;
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 .references-section ul li:not(:last-child){
-	margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 .references-section ul li a{
-	display: inline-block;
-	vertical-align: baseline;
-	font-size: 16px;
-	color: #4b5a9a;
+  display: inline-block;
+  vertical-align: baseline;
+  font-size: 16px;
+  color: #4b5a9a;
     -ms-word-break: break-all;
     word-break: break-all;
     word-break: break-word;
@@ -796,11 +743,11 @@ box-shadow: 0px 0px 35px 0px rgba(241,240,240,1);
 }
 
 .thankyou-text{
-	font-size: 18px;
-	line-height: 20px;
-	display: inline-block;
-	vertical-align: baseline;
-	color: #0006ff;
+  font-size: 18px;
+  line-height: 20px;
+  display: inline-block;
+  vertical-align: baseline;
+  color: #0006ff;
 }
 
 
@@ -1242,8 +1189,6 @@ box-shadow: 0px 0px 35px 0px rgba(241,240,240,1);
     margin-bottom: 20px;
 }
 
-
-
 @media(max-width: 1199px){
     .hide-md{
       display: none!important;
@@ -1266,6 +1211,19 @@ box-shadow: 0px 0px 35px 0px rgba(241,240,240,1);
     h5 {
       font-size: 28px;
     } 
+    .bss-sec-10-overlay{
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      background: rgba(255,255,255, 0.65);
+      z-index: 1;
+    }
+    .bss-sec-10-inr{
+      position: relative;
+      z-index: 2;
+    }
 }
 
 @media(max-width: 1154px){
@@ -1290,7 +1248,14 @@ box-shadow: 0px 0px 35px 0px rgba(241,240,240,1);
         display: none!important;
     }
 }
-
+@media(max-width: 1030px){
+  p br{
+    display: none;
+  }
+  .bss-sec-4.plr-10 .fl-txt-line-bg{
+    margin-left: -2px!important;
+  }
+}
 @media(max-width: 1023px){
     .pull-right{
       float: initial!important;
@@ -1407,7 +1372,7 @@ box-shadow: 0px 0px 35px 0px rgba(241,240,240,1);
         right: 0;
         top: 0;
         bottom: 0;
-        background: rgba(255,255,255, .5);
+        background: rgba(255,255,255, 0.65);
         z-index: 1;
     }
     .special-offer-con-wrp{
@@ -1459,19 +1424,6 @@ box-shadow: 0px 0px 35px 0px rgba(241,240,240,1);
     }
     .bss-sec-11-rgtdes{
       width: 100%;
-    }
-    .bss-sec-10-overlay{
-      position: absolute;
-      left: 0;
-      right: 0;
-      top: 0;
-      bottom: 0;
-      background: rgba(255,255,255, .5);
-      z-index: 1;
-    }
-    .bss-sec-10-inr{
-      position: relative;
-      z-index: 2;
     }
 
 }
@@ -1739,10 +1691,4 @@ box-shadow: 0px 0px 35px 0px rgba(241,240,240,1);
     .bsn-section-8-sub2-item strong{
         font-size: 19px;
     }
-}
-
-
-
-@media(max-width: 359px){
-
 }
