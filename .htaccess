@@ -90,7 +90,7 @@ Header set Strict-Transport-Security "max-age=31536000; includeSubDomains; prelo
 
 # Content-Security-Policy - Example 3
 <IfModule mod_headers.c>
-    Header set Content-Security-Policy "default-src https:; font-src https: data:; img-src https: data:; script-src self: https: unsafe-inline:; style-src self: https: unsafe-inline:;"
+    Header set Content-Security-Policy "default-src https:; font-src https: data:; img-src https: data:; script-src https: 'unsafe-inline' 'self'; style-src https: 'unsafe-inline' 'self'"
 </IfModule>
 ###################################################################################
 
@@ -219,7 +219,7 @@ Header set Strict-Transport-Security "max-age=31536000; includeSubDomains; prelo
     ExpiresByType application/vnd.ms-excel A31536000
     ExpiresByType application/zip A31536000
 </IfModule>
-	<ifModule mod_gzip.c>
+    <ifModule mod_gzip.c>
 mod_gzip_on Yes
 mod_gzip_dechunk Yes
 mod_gzip_item_include file .(html?|txt|css|js|php|pl)$
